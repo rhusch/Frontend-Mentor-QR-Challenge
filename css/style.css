@@ -1,5 +1,6 @@
 body {
   background-color: hsl(212, 45%, 89%);
+  display: flex;
 }
 
 .container {
@@ -7,8 +8,9 @@ body {
   border-radius: 25px;
   height: 480px;
   width: 300px;
+  margin: auto;
   padding: 15px;
-  margin: 150px auto;
+
 }
 
 .text {
@@ -21,6 +23,7 @@ h1 {
   text-align: center;
   color: hsl(218, 44%, 22%);
   line-height: 130%;
+  margin: auto;
 
 }
 
